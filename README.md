@@ -1,7 +1,9 @@
 # 简单的前端路由实现
 ---
+
 a simple frontend router, you can use some spa
 ---
+
 使用方式：
 ```
 const routes = [{
@@ -61,9 +63,10 @@ router.beforeEach(function(form,to,next) {
 })
 
 ```
----
+
 ## 对应的一些API类似Vue的操作api
 ---
+
 router.push  
 route.replace  
 route.back  
