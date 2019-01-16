@@ -3,6 +3,17 @@
 
 a simple frontend router, you can use some spa
 ---
+### 例子查看方式
+```
+git clone ....
+
+npm install
+
+//端口是：3002
+webpack-dev-server
+
+```
+
 
 使用方式：
 ```
